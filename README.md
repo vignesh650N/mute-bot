@@ -1,1 +1,1 @@
-# mute-bot
+ON
